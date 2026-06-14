@@ -1,1 +1,3 @@
-// This is the register form
+export default function SignupPage() {
+  return <div>Sign up</div>
+}

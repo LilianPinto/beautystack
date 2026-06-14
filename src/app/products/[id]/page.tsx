@@ -1,1 +1,3 @@
-// View/edit a product + notes
+export default function ProductPage() {
+  return <div>Product detail</div>
+}

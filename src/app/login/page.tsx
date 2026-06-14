@@ -1,1 +1,3 @@
-// This is the sign in form 
+export default function LoginPage() {
+  return <div>Login</div>
+}
